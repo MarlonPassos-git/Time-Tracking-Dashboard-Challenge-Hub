@@ -4,7 +4,7 @@ import './style.scss'
 
 export function App() {
   return (
-    <main>
+    <main className="main">
         <CardUser />
         <CardStatus />  
     </main>

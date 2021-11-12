@@ -1,10 +1,10 @@
 # Logica de criação desse projeto
 
-- [ ] criar o html de todos os componentes 
-    - [ ] card de usuario
-    - [ ] card de informaçoes
+- [x] criar o html de todos os componentes 
+    - [x] card de usuario
+    - [x] card de informaçoes
 - [ ] estilizar/posicionar os componentes 
-    - [ ] criar o posicionamento dos elementos
+    - [x] criar o posicionamento dos elementos
     - [ ] estilizar o card de usuario
     - [ ] estilizar o card de informaçoes 
 - [ ] criar a logica que vai carregar as informaçoes do usuario 
